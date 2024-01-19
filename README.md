@@ -18,7 +18,7 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-laravel-project.git](https://github.com/JafarThwahrah/laravel-admin-panel.git
+    git clone https://github.com/JafarThwahrah/laravel-admin-panel.git
     ```
 
 2. Navigate to the project directory:
